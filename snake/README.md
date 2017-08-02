@@ -1,1 +1,2 @@
-#hello, this is snake)
+ # hello, this is snake)
+ ![alt text](snake.jpg)
